@@ -1,7 +1,7 @@
 <p align="center">
   <img src="eyes1.jpg" alt="👀" width="100%">
 </p>
-<div>
+<div flex-direction:column>
  <img src="https://github-readme-stats.vercel.app/api?username=Prasanthi-Peram&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <div height="150"><a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Prasanthi-Peram&theme=midnight-purple" alt="GitHub Streak" /></a></div>
 </div>
